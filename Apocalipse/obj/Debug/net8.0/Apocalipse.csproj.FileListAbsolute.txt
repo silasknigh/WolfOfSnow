@@ -1,0 +1,14 @@
+D:\Users\20241170150058\Apocalipse\bin\Debug\net8.0\Apocalipse.exe
+D:\Users\20241170150058\Apocalipse\bin\Debug\net8.0\Apocalipse.deps.json
+D:\Users\20241170150058\Apocalipse\bin\Debug\net8.0\Apocalipse.runtimeconfig.json
+D:\Users\20241170150058\Apocalipse\bin\Debug\net8.0\Apocalipse.dll
+D:\Users\20241170150058\Apocalipse\bin\Debug\net8.0\Apocalipse.pdb
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\Apocalipse.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\Apocalipse.AssemblyInfoInputs.cache
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\Apocalipse.AssemblyInfo.cs
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\Apocalipse.csproj.CoreCompileInputs.cache
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\Apocalipse.dll
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\refint\Apocalipse.dll
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\Apocalipse.pdb
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\Apocalipse.genruntimeconfig.cache
+D:\Users\20241170150058\Apocalipse\obj\Debug\net8.0\ref\Apocalipse.dll
